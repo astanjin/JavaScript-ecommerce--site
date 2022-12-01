@@ -2,4 +2,4 @@
 
 #### Look at my site by clicking here:
 
-[ e-commerce] (https:// )
+[ e-commerce] (https://mina-ecommerce-site-javascript.netlify.app )
